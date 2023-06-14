@@ -1,17 +1,25 @@
 # VOICE_CLONING
 #INSTALL REQUIREMENTS
+
 ##STEP 1:
+
 Download and Install Anaconda (https://www.anaconda.com/)
+
 ##STEP 2:
 Open Anaconda 3 CMD
+
 ##STEP 3:
+
 Installing python 9.8
+
 ##STEP 4:
+
 Create a new environment with Python 
 
 `conda create --name voice-clone python
 `
 ##STEP 5:
+
 Activate the environment
 
 `conda activate voice-clone`
