@@ -1,7 +1,7 @@
 # VOICE_CLONING
 #INSTALL REQUIREMENTS
 
-##STEP 1:
+**##STEP 1:**
 
 Download and Install Anaconda (https://www.anaconda.com/)
 
