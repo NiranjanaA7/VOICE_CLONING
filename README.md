@@ -1,24 +1,24 @@
 # VOICE_CLONING
-#INSTALL REQUIREMENTS
+## INSTALL REQUIREMENTS
 
-**##STEP 1:**
+## STEP 1:
 
 Download and Install Anaconda (https://www.anaconda.com/)
 
-##STEP 2:
+## STEP 2:
 Open Anaconda 3 CMD
 
-##STEP 3:
+## STEP 3:
 
 Installing python 9.8
 
-##STEP 4:
+## STEP 4:
 
 Create a new environment with Python 
 
 `conda create --name voice-clone python
 `
-##STEP 5:
+## STEP 5:
 
 Activate the environment
 
@@ -29,14 +29,14 @@ Install ffmeg (https://anaconda.org/conda-forge/ffmpeg)
 
 `conda install -c conda-forge ffmpeg
 `
-##STEP 7:
+## STEP 7:
 Install PyTorch
 
  `conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cpuonly -c pytorch` 
 
  (Install pytorch) – https://pytorch.org/get-started/previous-versions/
 
-##STEP 8:
+## STEP 8:
 Install additional requirements
 
 `pip install Unidecode`
@@ -64,7 +64,7 @@ Launch the Toolbox
 
 `python demo_toolbox.py `(without data)
 
-##STEP 11:
+## STEP 11:
 Toolbox with Dataset
 
 `python demo_toolbox.py -d C:\Users\…
